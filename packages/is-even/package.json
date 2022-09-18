@@ -1,0 +1,27 @@
+{
+  "name": "@trivial-example/is-even",
+  "version": "0.0.0",
+  "description": "Function that returns whether value is even",
+  "author": "Zack DeRose <zack.derose@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/is-even.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "is-odd": "*"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "typescript": "^4.8.3"
+  }
+}
