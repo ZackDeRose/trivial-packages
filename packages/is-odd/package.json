@@ -1,6 +1,6 @@
 {
   "name": "@trivial-example/is-odd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Returns whether provided number is odd.",
   "author": "Zack DeRose <zack.derose@gmail.com>",
   "homepage": "",
