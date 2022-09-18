@@ -1,7 +1,7 @@
 {
   "name": "@trivial-example/is-odd",
   "version": "1.0.0",
-  "description": "> TODO: description",
+  "description": "Returns whether provided number is odd.",
   "author": "Zack DeRose <zack.derose@gmail.com>",
   "homepage": "",
   "license": "ISC",

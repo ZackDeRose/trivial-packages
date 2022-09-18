@@ -1,7 +1,7 @@
 {
   "name": "@trivial-example/is-even",
   "version": "1.0.0",
-  "description": "Function that returns whether value is even",
+  "description": "Returns whether provided number is even",
   "author": "Zack DeRose <zack.derose@gmail.com>",
   "homepage": "",
   "license": "ISC",

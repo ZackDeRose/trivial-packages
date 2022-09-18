@@ -1551,6 +1551,16 @@
   "resolved" "http://localhost:4873/@tootallnate%2fonce/-/once-2.0.0.tgz"
   "version" "2.0.0"
 
+"@trivial-example/is-even@file:/Users/zackderose/trivial-packages/packages/is-even":
+  "resolved" "file:packages/is-even"
+  "version" "1.0.0"
+  dependencies:
+    "is-odd" "*"
+
+"@trivial-example/is-odd@file:/Users/zackderose/trivial-packages/packages/is-odd":
+  "resolved" "file:packages/is-odd"
+  "version" "1.0.0"
+
 "@types/babel__core@^7.1.14":
   "integrity" "sha512-WEOTgRsbYkvA/KCsDwVEGkd7WAr1e3g31VHQ8zy5gul/V1qKullU/BU5I68X5v7V3GnB9eotmom4v5a5gjxorw=="
   "resolved" "https://registry.npmjs.org/@types/babel__core/-/babel__core-7.1.19.tgz"
@@ -3143,12 +3153,6 @@
   "resolved" "http://localhost:4873/is-docker/-/is-docker-2.2.1.tgz"
   "version" "2.2.1"
 
-"is-even@file:/Users/zackderose/trivial-packages/packages/is-even":
-  "resolved" "file:packages/is-even"
-  "version" "0.0.0"
-  dependencies:
-    "is-odd" "*"
-
 "is-extglob@^2.1.1":
   "integrity" "sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ=="
   "resolved" "http://localhost:4873/is-extglob/-/is-extglob-2.1.1.tgz"
@@ -3191,9 +3195,9 @@
   "resolved" "http://localhost:4873/is-obj/-/is-obj-2.0.0.tgz"
   "version" "2.0.0"
 
-"is-odd@*", "is-odd@file:/Users/zackderose/trivial-packages/packages/is-odd":
+"is-odd@*":
   "resolved" "file:packages/is-odd"
-  "version" "0.0.0"
+  "version" "1.0.0"
 
 "is-plain-obj@^1.0.0", "is-plain-obj@^1.1.0":
   "integrity" "sha512-yvkRyxmFKEOQ4pNXCmJG5AEQNlXJS5LaONXo5/cLdTZdWvsZ1ioJEonLGAosKlMWE8lwUy/bJzMjcw8az73+Fg=="
