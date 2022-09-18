@@ -1553,13 +1553,13 @@
 
 "@trivial-example/is-even@file:/Users/zackderose/trivial-packages/packages/is-even":
   "resolved" "file:packages/is-even"
-  "version" "1.0.1"
+  "version" "1.0.2"
   dependencies:
     "is-odd" "*"
 
 "@trivial-example/is-odd@file:/Users/zackderose/trivial-packages/packages/is-odd":
   "resolved" "file:packages/is-odd"
-  "version" "1.0.1"
+  "version" "1.0.2"
 
 "@types/babel__core@^7.1.14":
   "integrity" "sha512-WEOTgRsbYkvA/KCsDwVEGkd7WAr1e3g31VHQ8zy5gul/V1qKullU/BU5I68X5v7V3GnB9eotmom4v5a5gjxorw=="
@@ -3197,7 +3197,7 @@
 
 "is-odd@*":
   "resolved" "file:packages/is-odd"
-  "version" "1.0.1"
+  "version" "1.0.2"
 
 "is-plain-obj@^1.0.0", "is-plain-obj@^1.1.0":
   "integrity" "sha512-yvkRyxmFKEOQ4pNXCmJG5AEQNlXJS5LaONXo5/cLdTZdWvsZ1ioJEonLGAosKlMWE8lwUy/bJzMjcw8az73+Fg=="

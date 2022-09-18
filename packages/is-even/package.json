@@ -24,5 +24,8 @@
     "jest": "^29.0.3",
     "typescript": "^4.8.3"
   },
-  "gitHead": "afbe6fb4b12a84cb35672c76d79458372de44c81"
+  "gitHead": "3bfe0b51096fdb57a2734803e2687f7a066a6c76",
+  "publishConfig": {
+    "access": "public"
+  }
 }
