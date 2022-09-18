@@ -1,6 +1,6 @@
 {
   "name": "@trivial-example/is-even",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns whether provided number is even",
   "author": "Zack DeRose <zack.derose@gmail.com>",
   "homepage": "",
