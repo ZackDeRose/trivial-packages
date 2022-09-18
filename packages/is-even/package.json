@@ -1,5 +1,5 @@
 {
-  "name": "@trivial-example/is-even",
+  "name": "@example-trivial/is-even",
   "version": "1.0.3",
   "description": "Returns whether provided number is even",
   "author": "Zack DeRose <zack.derose@gmail.com>",
@@ -24,7 +24,7 @@
     "jest": "^29.0.3",
     "typescript": "^4.8.3"
   },
-  "gitHead": "3bfe0b51096fdb57a2734803e2687f7a066a6c76",
+  "gitHead": "7fe782852a056a246cbfc0a61893ee656f4444a6",
   "publishConfig": {
     "access": "public"
   }
